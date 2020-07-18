@@ -2,8 +2,8 @@
   "name": "evoke-ui-lib",
   "version": "1.0.0",
   "description": "",
-  "main": "./build/index.js",
-  "module": "./build/index.es.js",
+  "main": "./dist/index.js",
+  "module": "./dist/index.es.js",
   "peerDependencies": {
     "react": "16.13.1",
     "react-dom": "16.13.1"
